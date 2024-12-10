@@ -1,2 +1,7 @@
-# MitraInsyirah
-Mitra Insyirah adalah aplikasi mobile untuk usaha rumahan dan UMKM (Usaha Mikro, Kecil, dan Menengah) yang dapat mendaftar sebagai mitra Toko Insyirah, dikembangkan menggunakan Android Studio dengan bahasa pemrograman Kotlin untuk pengalaman mobile yang modern dan efisien.
+# Mitra Insyirah
+
+Mitra Insyirah is a mobile application developed using Android Studio with Kotlin for home-based businesses and MSMEs.
+
+## Languages used:
+- Kotlin
+- XML
